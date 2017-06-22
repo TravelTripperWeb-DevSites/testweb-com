@@ -8,5 +8,12 @@
   },
   "Details":{
   "type": "richtext"
+  },
+  "Testing File": {
+    "type": "image",
+    "required": true
+  },
+   "desc":{
+  "type": "richtext"
   }
 }
