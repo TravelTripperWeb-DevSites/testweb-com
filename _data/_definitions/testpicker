@@ -1,0 +1,12 @@
+{
+  "Title": {
+    "required": true
+  },
+  "Upload File": {
+    "type": "image",
+    "required": true
+  },
+  "Details":{
+  "type": "richtext"
+  }
+}
