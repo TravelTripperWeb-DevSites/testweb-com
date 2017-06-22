@@ -5,5 +5,8 @@
   "Upload Thumb": {
     "type": "image",
     "required": true
+  },
+  "Description":{
+  "type": "richtext"
   }
 }
