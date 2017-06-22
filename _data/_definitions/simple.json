@@ -5,5 +5,13 @@
   "Upload Thumb": {
     "type": "image",
     "required": true
+  },
+  "File Upload": {
+    "type": "image",
+    "required": false
+  },
+  "test file": {
+    "type": "image",
+    "required": false
   }
 }
